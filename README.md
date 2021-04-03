@@ -7,8 +7,12 @@ Data collection Forms are the Forms that are used at the individual and cooperat
 4. Inside the php scripts for transaction with the database we have created a Short Language Query from the data received, which when fired does its appropriate task with the database provided by the XAMPP server.
 
 Attaching the whole project implementation readme file and pdf with this description to help you compile and run the code efficiently on you machine :-[
-[ReadMe File.pdf]()
-[Data Collection Form Project Report.pdf]()
+[Project Presentation.pdf](https://github.com/ronakmak2720/DataCollectionForm/blob/main/DCF_project_Presentation.pptx)
+
+[Data Collection Form Project Report.pdf](https://github.com/ronakmak2720/DataCollectionForm/blob/main/DCF_Project_Report.docx)
+
+Check out our YouTube video for the small implementation of the project.👇
+https://www.youtube.com/watch?v=Rixmtd-7nRo
 
 For any quries, contribution or collaboration please contact me:-
 1. ronakmak2720@gmail.com
